@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ehcache:ehcache:3.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../software/maven/apache-maven-3.5.4/maven_respository/org/ehcache/ehcache/3.8.1/ehcache-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../software/maven/apache-maven-3.5.4/maven_respository/org/ehcache/ehcache/3.8.1/ehcache-3.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../software/maven/apache-maven-3.5.4/maven_respository/org/ehcache/ehcache/3.8.1/ehcache-3.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
