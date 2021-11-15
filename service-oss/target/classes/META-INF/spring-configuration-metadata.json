@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "aliyun.oss",
+      "type": "com.acho.srb.oss.util.OssProperties",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.oss.b-u-c-k-e-t-n-a-m-e",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.e-n-d-p-o-i-n-t",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.k-e-y-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.k-e-y-s-e-c-r-e-t",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    },
+    {
+      "name": "aliyun.oss.key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.acho.srb.oss.util.OssProperties"
+    }
+  ],
+  "hints": []
+}
